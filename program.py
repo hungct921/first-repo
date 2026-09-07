@@ -1,2 +1,3 @@
 print("Hello, World!")
 print("Im newbie to github!)
+print("Now I'm known basic of git")
